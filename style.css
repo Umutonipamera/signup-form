@@ -1,0 +1,29 @@
+
+body{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+.container{
+width:300px;
+box-shadow:snow;
+background:palevioletred;
+padding: 30px;
+margin:8% auto 0;
+text-align: center;
+
+}
+input[type=text], input[type=password]{
+    padding: 15px;
+   
+}
+.signupbtn{
+    padding:10px;
+    background:green;
+    color:white;
+}
+
+   
+
+
+
